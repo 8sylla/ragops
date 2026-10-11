@@ -1,0 +1,32 @@
+{"question": "Je n'ai jamais eu de carte d'identité, où dois-je faire la demande ?", "expected": "F1341"}
+{"question": "Peut-on faire une pré-demande de CNI en ligne avant d'aller en mairie ?", "expected": ["F1341", "F33640"]}
+{"question": "J'ai besoin d'un passeport très vite pour un voyage professionnel", "expected": "F1373"}
+{"question": "Combien de temps est valable un passeport temporaire délivré en urgence ?", "expected": "F1373"}
+{"question": "Je loue un appartement, est-ce que j'ai droit à l'APL ?", "expected": "F12006"}
+{"question": "Aide au logement versée par la Caf ou la MSA pour un locataire", "expected": "F12006"}
+{"question": "Faut-il une visite médicale pour reprendre le travail après un long arrêt maladie ?", "expected": "F144"}
+{"question": "Reprise après 60 jours d'arrêt de travail : que doit faire l'employeur ?", "expected": "F144"}
+{"question": "Pendant mon arrêt maladie, ai-je le droit de quitter la maison ?", "expected": "F12415"}
+{"question": "Que veut dire sortie libre sur l'avis d'arrêt de travail ?", "expected": "F12415"}
+{"question": "Combien de jours de congé ai-je pour mon mariage ?", "expected": "F34154"}
+{"question": "Mon employeur doit-il me payer les jours d'absence pour mon Pacs ?", "expected": "F34154"}
+{"question": "Dans quel délai faut-il déclarer la naissance d'un bébé à la mairie ?", "expected": "F961"}
+{"question": "Qui peut aller à la mairie déclarer un nouveau-né ?", "expected": "F961"}
+{"question": "Mon fils entre au lycée, comment demander une bourse ?", "expected": "F616"}
+{"question": "Quel est le montant de l'aide financière pour un lycéen selon les revenus des parents ?", "expected": "F616"}
+{"question": "À partir de quel âge peut-on devenir apprenti ?", "expected": "F2918"}
+{"question": "Quel salaire touche un apprenti ?", "expected": "F2918"}
+{"question": "Comment fonctionne le prélèvement de l'impôt directement sur le salaire ?", "expected": "F34009"}
+{"question": "Impôt prélevé chaque mois sur ma pension de retraite", "expected": "F34009"}
+{"question": "Je veux baisser mon taux de prélèvement à la source", "expected": "F35894"}
+{"question": "Peut-on choisir un taux individualisé quand on est marié ?", "expected": "F35894"}
+{"question": "Comment obtenir le bulletin n°3 de mon casier judiciaire ?", "expected": "F1420"}
+{"question": "Un employeur me demande un extrait de casier judiciaire, où le demander ?", "expected": "F1420"}
+{"question": "Je serai absent le jour de l'élection, comment faire voter quelqu'un à ma place ?", "expected": "F1604"}
+{"question": "Faire une procuration de vote depuis l'étranger", "expected": "F1604"}
+{"question": "Le juge a suspendu mon permis de conduire, que dois-je faire ?", "expected": "F21761"}
+{"question": "Faut-il prévenir son assurance auto en cas de suspension du permis ?", "expected": "F21761"}
+{"question": "Je suis étudiant et je cherche un stage Erasmus dans une entreprise européenne", "expected": "F382"}
+{"question": "Programme Eurodyssée pour un demandeur d'emploi qui veut un stage en Europe", "expected": "F382"}
+{"question": "Quelle différence entre un contrat de professionnalisation et un contrat d'apprentissage ?", "expected": "F31704"}
+{"question": "Alternance : vaut-il mieux un contrat pro ou un apprentissage ?", "expected": ["F31704", "F39004"]}

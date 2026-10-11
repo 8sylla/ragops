@@ -1,0 +1,11 @@
+.venv
+.git
+.github
+**/__pycache__
+.pytest_cache
+*.pkl
+eval-report.json
+infra
+deploy
+pipelines
+tests
